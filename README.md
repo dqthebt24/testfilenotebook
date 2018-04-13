@@ -1,6 +1,6 @@
 # testfilenotebook
 
-\\( \mathbf{w}^T\mathbf{x} \\)
+\\\( \mathbf{w}^T\mathbf{x} \\\)
 
 \alpha
 
